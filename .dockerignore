@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# Media folders 
+images/
+videos/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Git
+.git/
+.gitignore
+
+# IDE files
+.vscode/
+.idea/
